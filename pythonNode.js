@@ -12,7 +12,7 @@ var globals = {};
 var con = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "password",
+    password: "123456789",
     database: "test"
   });
 
